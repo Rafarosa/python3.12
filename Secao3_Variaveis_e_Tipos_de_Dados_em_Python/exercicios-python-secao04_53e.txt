@@ -1,0 +1,188 @@
+Geek University
+www.geekuniversity.com.br
+Evolua seu lado geek!
+
+Exercícios Python- Seção 04
+Exercicios Python- Secao 04
+. Faga um programa que leia um nimero inteiro e 0 imprima.
+Faga um programa que leia um nimero real e o imprima.
+iprima a soma deles.
+ado desse numero.
+Leia um numero real e imprima a quinta parte deste numero.
+Leia uma temperatura em graus Celsius e apresente-a convertida em graus Fahrenheit.
+A formula de conversao 6: F = C'«(9.0/5.0) +32.0, sendo F a temperatura em Fahrenheit
+eCa temperatura em Celsius.
+Leia uma temperatura em graus Fahrenheit e apresente-a convertida em graus Celsius.
+A formula de conversao é: C= 5.0 « (F~32.0)/9.0, sendo C’ a temperatura em Celsius
+e F a temperatura em Fahrenheit.
+Leia uma temperatura em graus Kelvin e apresente-a convertida em graus Celsius. A
+formula de conversao é: C = K— 273.15, sendo C a temperatura em Celsius e K a
+temperatura em Kelvin.
+Leia uma temperatura em graus Celsius e apresente-a convertida em graus Kelvin. A
+formula de conversdo é: K = C’+ 273.15, sendo Ca temperatura em Celsius e K a
+temperatura em Kelvin.
+. Leia uma velocidade em km/h (quilémetros por hora) e apresente-a convertida em m/s
+(metros por segundo). A formula de conversao é: \/ = K/3.6, sendo K a velocidade em
+knv/h e M em ms.
+Ss
+=
+&
+x eS
+p=
+
+Exercícios Python- Seção 04
+. Leia uma velocidade em m/s (metros por segundo) e apresente-a convertida em km/h
+(quilémetros por hora). A férmula de conversao é: K = M * 3.6, sendo Ka velocidade
+emkm/h eM em m/s.
+. Leia uma distancia em milhas e apresente-a convertida em quilémetros. A formula de
+conversao 6: K = 1,61 * M, sendo K a distancia em quilémetros e J em milhas.
+. Leia uma distancia em quitémetros @ apresente-a convertida em mihas. A férmula de
+conversdo 6: M =47, sendo K’ a distancia emquilémetros e M em milhas.
+aaum Angulo emgraus e apresente-o convertido em radianos.Aformula de conversao
+: R=G»z/180, sendo G 0 Angulo em graus e R em radianos e x=3
+. Leia um Angulo emradianos e apresente-o convertido em graus. A formula de conversao
+3.1
+6: G = R* 180/7, sendo G 0 Angulo em graus e em radianos e =
+. Leia um valor de comprimento em polegadas e apresente-o convertido em centimetros.
+A formula de conversao 6: C = P * 2, 54, sendo C 0 comprimento em centimetros e P o
+comprimento em polegadas.
+. Leia um valor de comprimento em centimetros e apresente-o convertido em polegadas.
+A formula de conversdo 6: P = 35, sendo Co comprimento em centimetros e P o
+comprimento em polegadas.
+. Leia um valor de volume em metros clibicos m* e apresente-o convertido em litros. A
+formula de conversao é: L = 1000 * M, sendo L o volume em litros e WW 0 volume em
+metros cibicos.
+|. Leia um valor de volume em litros e apresente-o convertido em metros cibicos m*.A
+formula de conversao é: = +45, sendo 1.0 volume em los @ 1 0 volume em metros
+cibicos.
+. Leia um valor de massa em quilogramas e apresente-o corvertido em libras. A formula
+de conversao é: L = 7s, sendo K’ a massa em quilogramas e J. a massa em libras.
+8ny
+os
+2
+
+Exercícios Python- Seção 04
+Bt.
+Leia um valor de massa em libras e apresente-o convertido em quilogramas. A formula
+de converséo 6: K = L*0,45, sendo K a massa em quilogramas e L a massa em libras.
+2 . Leia um valor decomprimento em jardas e apresente-o convertido em metros. A formula
+de conversao é: M = 0,91 «J, sendo .J 0 comprimento em jardas e \/ 0 comprimento
+em metros.
+23.
+Leia um valor de comprimento em metros e apresente-o convertido em jardas. A formula
+de conversao 6: J = ;44, sendo J 0 comprimento em jardas e M 0 comprimento em
+metros.
+24.
+Leia um valor de drea em metros quadrados m” e apresente-o convertido em acres. A
+formula de conversao 6: A =M * 0.000247, sendo M/ a 4rea em metros quadrados e A
+a area emacres.
+25.
+26.
+27.
+Leia um valor de drea em acres e apresente-o convertido em metros quadrados m?. A
+formula de conversao é: Mf =A = 4048.58, sendo M/ a rea em metros quadrados e A a
+@rea em acres.
+Leia um valor de 4rea em metros quadrados m? e apresente-o convertido em hectares.
+A formula de conversao é: H = M «0,0001, sendo M a area em metros quadrados e H
+a area em hectares.
+Leia um valor de area em hectares e apresente-o convertido em metros quadrados m?.
+A férmula de conversao 6: MJ = H * 10000, sendo M a area em metros quadrados e H
+a area em hectares.
+28.
+29.
+30.
+Faga a leitura de trés valores e apresente como resultado a soma dos quadrados dos
+trés valores lidos.
+Leia quatro notas, calcule a média aritmética e imprima o resultado.
+Leia um valor em real e a cotacao do délar. Em seguida, imprima o valor correspondente
+em dolares.
+8 8
+&
+S
+®
+a
+x
+2
+8
+
+Exercícios Python- Seção 04
+. Leia um numero inteiro e imprima o seu antecessor ¢ 0 seu sucessor.
+. Leia um numero inteiro e imprima a soma do sucessor de seu triplo com o antecessor de
+seu dobro.
+. Leia o tamanho do lado de um quadradoe imprima como resultado a sua area.
+Leia o valor do raio de um circulo e calcule e phim a area do circulo correspondente.
+Area do circulo é x * raic®, considere x =3.1415
+. Sejam a e@ b os catetos de um triangulo, onde a hipotenusa é obtida pela equacao:
+hipotenusa = Va? +, Faga um programa que receba os valores de a @ b e calcule
+©valor da hipotenusa através da equagao. Imprima o resultado dessa operagao.
+. Leia a altura @ 0 raio de um cilindro circular e imprima o volume do cilindro. O volume
+v
+de um cilindro circular é calculado por meio da seguinte formula:
+xraio® «altura,
+Faca um programa que leia o valor de um produto e imprima o valor com desconto, tendo
+em vista que o desconto foi de 12%
+. Leiao salario de um funciondrio. Calcule e imprima o valor do novo salério, sabendo que
+ele recebeu um aumento de 25%.
+. A importancia de R$ 780.000,00 sera dividida entre trés ganhadores de um concurso.
+Sendo que da quantia total:
+‘© Oprimeiro ganhador recebera 46%:
+‘* O segundo recebera 32%;
+Oterceiro recebera o restante;
+Calcule e imprima a quantia ganha por cada umdos ganhadores.
+. Uma empresa contrata um encanador a R$ 30,00 por dia. Faca um programa que solicite
+‘ontimero de dias trabalhados pelo encanador e imprima a quantia liquida que deverd ser
+paga, sabendo-se que sao descontados 8% para imposto de renda.
+88
+
+Exercícios Python- Seção 04
+. Faga um programa que leia o valor da hora de trabalho (em reais) e nlimero de horas
+trabalhadas no més. Imprima o valor a ser pago ao funcionario, adicionando 10% sobre
+0 valor calculado.
+Recebao salario-base de um funciondrio. Calcule e imprimao salario a receber, sabendo-
+se que esse funciondrio tem uma gratificagao de 5% sobre o salario-base. Além disso,
+ele paga 7%de imposto sobre o salario-base.
+Escreva um programa de ajuda para vendedores. A partir de um valor total lido, mostre:
+* o total a pagar com desconto de 10%;
+o valor de cada parcela, no parcelamento de 3x sem juros;
+a comissao do vendedor, no caso da venda sera vista (5% sobre o valor com des-
+conto)
+‘* acomissdo do vendedor, no caso da venda ser parcelada (5% sobreo valor total)
+Recebaa altura do degrau de uma escadae a altura que 0 usuario deseja alcancar
+subindo a escada. Calcule e mostre quantos degraus 0 usuario devera subir para atingir
+seu objetivo.
+45.
+46.
+Faca um programa para converter uma letra maiéscula em letra minuscula. Use a tabela
+ASCIl para resolver 0 problema.
+Faca um programa que leia um numero inteiro positive de trés digitos (de 100 a 999).
+Gere outro nimero formado pelos digitos invertidos do numero lido. Exemplo:
+NumeroLido= 123
+NumeroGerado =321
+'. Leia um numero inteiro de 4 digitos (de 1000 a 9999) e imprima 1 digito por linha.
+Leia um valor inteiro em segundos, e imprima-o em horas, minutos e segundos.
+|. Faga um programa para leia o horario (hora, minuto e segundo) de inicio e a durago, em
+segundos, de uma experiéncia biolégica. O programa deve resultar como novo horario
+(hora, minuto e segundo) do termino da mesma.
+. Implemente um programa que calcule o ano de nascimento de uma pessoa a partir de
+sua idade e do ano atual.
+a8
+&
+3&
+3s
+&
+
+Exercícios Python- Seção 04
+. Escreva um programa que leia as coordenadas «r ey de pontos no i?e calcule sua
+distancia da origem (0,0).
+. Trés amigos jogaram na loteria. Caso eles ganhem, o prémio deve ser repartido pro-
+porcionalmente ao valor que cada deu para a realizado da aposta. Faga um programa
+que leia quanto cada apostador investiu, o valor do prémio, e imprima quanto cada um
+ganharia do prémio com base no valor investido.
+. Faga um programa para ler as dimensdes de um terreno (comprimento c ¢ largura |),
+bem como 0 prego do metro de tela p. Imprimao custo para cercar este mesmo terreno
+comtela.
+a
+
+Geek University
+Evolua seu lado geek!
+www.geekuniversity.com.br
